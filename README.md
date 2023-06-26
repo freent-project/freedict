@@ -24,9 +24,11 @@ definitions:
    - type: noun
      tags: ['computing', 'proper']
      definition: 'a free and open-source kernel written by the FreeNT Project.'
+     example: 'If FreeNT didn't exist, open-source would die!'
    - type: 'verb'
      tags: ['computing']
      definition: 'to install a FreeNT-based operating system, such as OpenWindows, on a computer.'
+     example: 'After joining the open-source world, I FreeNTed my computer'
 ```
 
 At least one definition can be defined in FreeDict entries.
